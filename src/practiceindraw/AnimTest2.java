@@ -11,10 +11,10 @@ public class AnimTest2 {
     private int oneX = 7;
     private int oneY = 7;
 
-    private int ovalX = 1;
+    private int ovalX = 180;
     private int ovalY = 120;
 
-    private int sizeoval = 1;
+    private int sizeoval = 60;
     private int pillarOval = 1;
     private boolean increase = true;
 
@@ -42,7 +42,7 @@ public class AnimTest2 {
 
         frame.getContentPane().add(BorderLayout.CENTER, drawPanel);
 
-        frame.setResizable(false);
+        frame.setResizable(true);
         frame.setSize(360, 360);
         frame.setLocationByPlatform(true);
         frame.setVisible(true);
@@ -78,9 +78,18 @@ public class AnimTest2 {
             //XY upper , XY downer
 
             g.fillRect(oneX, oneY, 60, 60);
+            if (goToRight){
+                g.setColor(Color.YELLOW);
+                g.fillOval(120,90,1+80,1+80);
+            }
 
             g.setColor(Color.RED);
-            g.fillOval(ovalX-pillarOval,ovalY-pillarOval,1+sizeoval,1+sizeoval);
+            g.fillOval(ovalX-sizeoval/2,ovalY-sizeoval/2,1+sizeoval,1+sizeoval);
+            if (!goToRight) {
+                g.setColor(Color.YELLOW);
+                g.fillOval(120,90,1+80,1+80);
+            }
+
         }
     }
 
@@ -95,9 +104,21 @@ public class AnimTest2 {
                 turn = 0;
             }
 
-            try
-            { Thread.sleep(10); }
-            catch (Exception e) { e.printStackTrace(); }
+
+            if (ovalX>298 | ovalX < 12){
+                try
+                { Thread.sleep(30); }
+                catch (Exception e) { e.printStackTrace(); }
+            }else if (ovalX >290| ovalX < 20){
+                try
+                { Thread.sleep(15); }
+                catch (Exception e) { e.printStackTrace(); }
+            }else{
+                try
+                { Thread.sleep(10); }
+                catch (Exception e) { e.printStackTrace(); }
+            }
+
 
             frame.repaint();
         }
@@ -108,7 +129,9 @@ public class AnimTest2 {
     private void rightGo(){
         if (ovalX < 300){
             ovalX++;
-            if (ovalX%5==0){
+            if (ovalX%5==0 & ovalX>150){
+                sizeoval--;
+            }else if (ovalX%5==0){
                 sizeoval++;
             }
 
@@ -121,10 +144,12 @@ public class AnimTest2 {
     }
 
     public void leftGo(){
-        if (ovalX > 1){
+        if (ovalX > 10){
             ovalX--;
-            if (ovalX%5==0){
+            if (ovalX%5==0 & ovalX>150){
                 sizeoval--;
+            }else if (ovalX%5==0){
+                sizeoval++;
             }
 
         }else {

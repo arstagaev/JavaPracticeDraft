@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b690db1-ace2-49ec-b9aa-88c4b8cf205c" name="Default Changelist" comment="" />
+    <list default="true" id="6b690db1-ace2-49ec-b9aa-88c4b8cf205c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snowflakeSmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceAndAbstract/DBMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceAndAbstract/DBOracle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceAndAbstract/LoginAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceAndAbstract/LoginAuthm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Manipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceindraw/sfd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall/DrawComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall/SnowFall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall/SnowFlake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall2/DrawModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall2/SnowBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall2/SnowFalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall3/LetItSnow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snowfall3/SnowBall3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starwars/CircleMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starwars/StarWars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChartPuss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDrafts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/ArsChart1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/ArsChart1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/Arschart2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/Arschart2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/BasicShapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/CreateShapes$CustomPaintComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/CreateShapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/CubicCurveMouse$DrawingCanvas$MyMouseListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/CubicCurveMouse$DrawingCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/CubicCurveMouse$WindowEventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/CubicCurveMouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/DrawGraph$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/DrawGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/FallingSnow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/FallingSnow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/JetBrainsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/META-INF/ChartPuss.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/RoundedRectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/SnowFlake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/SnowLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/Snowman$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/Snowman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/SnowmanImagePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/TestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/Whatever.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/WhateverKotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/anim/Animation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/anim/Cloud.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/anim/SnowAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/anim/SnowFlake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/anim3/Test2$DrawPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/anim3/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/letissnow/DrawingComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/letissnow/SnowBall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/letissnow/SnowFall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/practiceindraw/AnimTest2$DrawPanel2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/practiceindraw/AnimTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/practiceindraw/prct$DrawPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChartPuss/practiceindraw/prct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JetBrainsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JetBrainsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhateverKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhateverKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letissnow/DrawingComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letissnow/SnowBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letissnow/SnowFall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceindraw/AnimTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceindraw/AnimTest2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +82,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -21,7 +90,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Xiaomi\IdeaProjects\ChartPuss\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1hiooIoFSyMFSpfD53QF6XqxQ61" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,20 +108,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MyApps/Practice/fireworks" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.AnimTest2">
-    <configuration name="AnimTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceindraw.AnimTest2" />
-      <module name="ChartPuss" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Xiaomi\IdeaProjects\ChartPuss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StarWars">
+    <configuration name="CircleMove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="starwars.CircleMove" />
+      <module name="JavaDrafts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceindraw.*" />
+          <option name="PATTERN" value="starwars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,47 +136,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicShapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicShapes" />
-      <module name="ChartPuss" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SnowMan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SnowMan" />
-      <module name="ChartPuss" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Snowman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Snowman" />
-      <module name="ChartPuss" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="prct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceindraw.prct" />
-      <module name="ChartPuss" />
+    <configuration name="LetItSnow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snowfall3.LetItSnow" />
+      <module name="JavaDrafts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceindraw.*" />
+          <option name="PATTERN" value="snowfall3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowFall (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snowfall.SnowFall" />
+      <module name="JavaDrafts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snowfall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowFalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snowfall2.SnowFalling" />
+      <module name="JavaDrafts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snowfall2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarWars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="starwars.StarWars" />
+      <module name="JavaDrafts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="starwars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhateverKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="JavaDrafts" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WhateverKotlinKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnimTest2" />
-        <item itemvalue="Application.prct" />
-        <item itemvalue="Application.SnowMan" />
-        <item itemvalue="Application.Snowman" />
-        <item itemvalue="Application.BasicShapes" />
+        <item itemvalue="Application.StarWars" />
+        <item itemvalue="Application.CircleMove" />
+        <item itemvalue="Kotlin.WhateverKotlinKt" />
+        <item itemvalue="Application.LetItSnow" />
+        <item itemvalue="Application.SnowFalling" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +243,13 @@
       <workItem from="1602178327164" duration="2732000" />
       <workItem from="1602308565896" duration="881000" />
       <workItem from="1602309465947" duration="19975000" />
-      <workItem from="1602400260622" duration="1950000" />
+      <workItem from="1602400260622" duration="6892000" />
+      <workItem from="1602428123070" duration="9000" />
+      <workItem from="1602447188201" duration="4019000" />
+      <workItem from="1602662628423" duration="32476000" />
+      <workItem from="1603054507681" duration="1346000" />
+      <workItem from="1603200096180" duration="4189000" />
+      <workItem from="1603220703710" duration="16835000" />
     </task>
     <servers />
   </component>
@@ -138,29 +261,72 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="233" y="7" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1600503460528" />
-    <state width="1237" height="108" key="GridCell.Tab.0.bottom" timestamp="1602402659611">
+    <state x="446" y="55" key="#com.intellij.ide.util.MemberChooser" timestamp="1602747895618">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="108" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1602402659611" />
-    <state width="1237" height="108" key="GridCell.Tab.0.center" timestamp="1602402659609">
+    <state x="446" y="55" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1602747895618" />
+    <state x="371" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602692710913">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="108" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1602402659609" />
-    <state width="1237" height="108" key="GridCell.Tab.0.left" timestamp="1602402659609">
+    <state x="371" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1602692710913" />
+    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1603262378378">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="108" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1602402659609" />
-    <state width="1237" height="108" key="GridCell.Tab.0.right" timestamp="1602402659609">
+    <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1603262378378" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1603276307406">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="108" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1602402659609" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1603276307406" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1603276307406">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1603276307406" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1603276307406">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1603276307406" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1603276307406">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1603276307406" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1603225526575">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1603225526575" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1603225526574">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1603225526574" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1603225526574">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1603225526574" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1603225526575">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1603225526575" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1602315960367">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602315960367" />
-    <state x="91" y="0" key="new project wizard" timestamp="1601051035244">
+    <state x="91" y="0" key="new project wizard" timestamp="1602405642204">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1601051035244" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1602405642204" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1603054903580">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1603054903580" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/snowfall/DrawComponent.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

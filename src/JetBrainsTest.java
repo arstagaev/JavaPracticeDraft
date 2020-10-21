@@ -1,21 +1,25 @@
+public class JetBrainsTest implements Animal {
 
-
-
-
-public class JetBrainsTest {
     public static void main(String[] args) {
         int a = 0;
 
         long[] longNumbers = {1L,2L,3L};
+        JetBrainsTest jt = new JetBrainsTest();
         String b = "abcdf";
-        calc();
+        jt.calc();
 
 
         System.out.println(""+b.charAt(1)+ " subs = "+ b.substring(0,2));
 
+        String s = "Wake up, Neo!";
+        s = s.toUpperCase();
+        s = s.trim();
+
+        System.out.println("\"" + s + "\"");
+
     }
 
-    static void calc(){
+    private void calc(){
         int a = 300;
         int b = a++;
         int c = --b;
@@ -23,4 +27,8 @@ public class JetBrainsTest {
     }
 
 
+    @Override
+    public void roar() {
+
+    }
 }
